@@ -9,7 +9,7 @@ The MBA-Decision dataset is a collection of data about individuals who have comp
 <br>✔️ Business education research – Study MBA trends across industries
 
 ## Dataset Structure
-- Below are the details of the fields in the dataset:
+<br>Below are the details of the fields in the dataset:
 - Person ID – Unique identifier
 - Age – Age at the time of decision
 - Gender – Male, Female, Other
